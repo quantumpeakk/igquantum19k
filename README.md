@@ -1,3 +1,11 @@
 # igquantum19k
-İNST4GR4M BR7TE F0RCE T00L            dc: quantumpeak>
->>>>>>> f833b4df88afcd66b715d311a9e4f4667fb015c6
+
+igquantum19k tool u Instagram hesaplarına bruteforce saldırısı yaparak şifreleri denemeye yönelik bir araçtır. Bu araç yalnızca eğitim ve test amaçlı kullanılmalıdır.
+
+## Gereksinimler:
+- Python 3.x
+- Termux veya Linux/Mac/Windows terminali
+
+## Kurulum
+
+1. 
