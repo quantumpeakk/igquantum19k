@@ -8,4 +8,14 @@ igquantum19k tool u Instagram hesaplarına bruteforce saldırısı yaparak şifr
 
 ## Kurulum
 
-1. 
+pkg install git
+
+pkg install python -y
+
+git clone https://github.com/quantumpeakk/igquantum19k.git
+
+cd igquantum19k
+
+bash install.sh
+
+python igquantum19k.py
