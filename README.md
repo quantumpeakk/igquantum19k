@@ -1,21 +1,18 @@
 # igquantum19k
 
-igquantum19k tool u Instagram hesaplarına bruteforce saldırısı yaparak şifreleri denemeye yönelik bir araçtır. Bu araç yalnızca eğitim ve test amaçlı kullanılmalıdır.
+**igquantum19k**, Instagram hesaplarına yönelik brute-force saldırı denemeleri gerçekleştiren bir araçtır. Bu araç yalnızca **eğitim ve test amaçlı** kullanılmak üzere geliştirilmiştir. Herhangi bir yasa dışı kullanım, tamamen kullanıcı sorumluluğundadır.
 
-## Gereksinimler:
-- Python
-- Termux veya Linux/Mac/Windows terminali
+## Gereksinimler
 
-## KURULUM & TERMUX
+- Python 3.x
+- Termux, Linux, macOS veya Windows terminali
 
-pkg install git
+## Kurulum
 
+```bash
+pkg install git -y
 pkg install python -y
-
 git clone https://github.com/quantumpeakk/igquantum19k.git
-
 cd igquantum19k
-
 bash install.sh
-
 python igquantum19k.py
